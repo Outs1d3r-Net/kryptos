@@ -2,9 +2,9 @@
 
 > Xor 
 
-##Usage:## xor.py MESSAGE PASSWORD OPERATION
+**Usage:** _xor.py_ ****MESSAGE**** ****PASSWORD**** OPERATION
 
-##eX:## xor.py 'message' 'secret' enc
+**eX:** _xor.py_ 'message' 'secret' enc
 
 1. xor.py = Contém um script simples para criptografia xor.
 
